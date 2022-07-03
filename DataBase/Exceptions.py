@@ -1,0 +1,2 @@
+class NullConstraintException(BaseException):
+    pass
